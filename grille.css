@@ -45,3 +45,11 @@ grid-row: 4/6;
 #tuile7{grid-column: 1;
 grid-row: 6/8;
 }
+
+#tuile8{grid-column: 2;
+grid-row: 6/8;
+}
+
+#tuile9{grid-column: 3;
+grid-row: 6/8;
+}
